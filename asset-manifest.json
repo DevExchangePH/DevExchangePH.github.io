@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DevExchangePH/devexchangeph.github.io.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/DevExchangePH/devexchangeph.github.io.git/static/js/main.da5e8356.chunk.js",
+    "main.js.map": "/DevExchangePH/devexchangeph.github.io.git/static/js/main.da5e8356.chunk.js.map",
+    "runtime-main.js": "/DevExchangePH/devexchangeph.github.io.git/static/js/runtime-main.dd317297.js",
+    "runtime-main.js.map": "/DevExchangePH/devexchangeph.github.io.git/static/js/runtime-main.dd317297.js.map",
+    "static/js/2.6b9cc370.chunk.js": "/DevExchangePH/devexchangeph.github.io.git/static/js/2.6b9cc370.chunk.js",
+    "static/js/2.6b9cc370.chunk.js.map": "/DevExchangePH/devexchangeph.github.io.git/static/js/2.6b9cc370.chunk.js.map",
+    "index.html": "/DevExchangePH/devexchangeph.github.io.git/index.html",
+    "precache-manifest.9d2a3e74ed52d75089c1075ba49e1a65.js": "/DevExchangePH/devexchangeph.github.io.git/precache-manifest.9d2a3e74ed52d75089c1075ba49e1a65.js",
+    "service-worker.js": "/DevExchangePH/devexchangeph.github.io.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/DevExchangePH/devexchangeph.github.io.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6b9cc370.chunk.js.LICENSE.txt": "/DevExchangePH/devexchangeph.github.io.git/static/js/2.6b9cc370.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/DevExchangePH/devexchangeph.github.io.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd317297.js",
+    "static/js/2.6b9cc370.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.da5e8356.chunk.js"
+  ]
+}
